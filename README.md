@@ -4,8 +4,8 @@ Learning GitHub with demo
 
 - Team Name: Foodies Team
 - Members:
-  - Padmavathi
-  - Nandini
-  - Lavanya
-  - Meghana
+  - Padmavathi - Developers
+  - Nandini - Developers
+  - Lavanya - Developers
+  - Meghana - Developers
 - Poster Tool Used: Canva
